@@ -57,6 +57,6 @@ const modals = () => {
     ".popup_engineer .popup_close"
   );
     bindModal(".phone_link", ".popup", ".popup_close");
-    showModalByTime(".popup_engineer", 3000);
+    // showModalByTime(".popup_engineer", 60000); // раскоментировать для задания
 };
 export default modals;
