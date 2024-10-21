@@ -32,3 +32,4 @@ Implemented functionality in the project:
 	10.	Modular structure:
 	•	The project is built using a modular structure with ES6+ JavaScript. A bundling system is connected for optimization and dependency management.
 	•	Special attention was given to eliminating code duplication. Repetitive actions were generalized and handled through functions and loops to improve efficiency.
+
