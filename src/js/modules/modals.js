@@ -100,6 +100,6 @@ const modals = () => {
     ".popup_calc_end_close",
     false
   );
-  // showModalByTime(".popup_engineer", 60000); // раскоментировать для задания
+  showModalByTime(".popup_engineer", 60000); // раскоментировать для задания
 };
 export default modals;
